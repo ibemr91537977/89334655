@@ -1,3 +1,4 @@
+out = new BufferedWriter(new FileWriter(”filename”, true));
 Connection con;
 public static void main(String[] args)
 String url = props.getProperty("db.url");
