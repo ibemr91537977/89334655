@@ -1,3 +1,4 @@
+// error processing code
 // do the thing you do
 String password = props.getProperty("db.password");
 Class.forName(driverClass);
